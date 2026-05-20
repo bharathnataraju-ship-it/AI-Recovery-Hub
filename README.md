@@ -1,1 +1,2 @@
-# AI-Recovery-Hub
+# intprojectai
+
